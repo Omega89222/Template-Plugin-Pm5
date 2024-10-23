@@ -1,0 +1,7 @@
+name: Template Plugin pm 5
+author: omega892
+version: 1.0.0
+api: 5.0.0
+main: Omega892\Core\main
+
+    
